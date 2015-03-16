@@ -1,5 +1,5 @@
-FROM simplyintricate/nginx-php
-MAINTAINER Stephen Liang "docker-maint@stephenliang.pw"
+FROM jawc/nginx-php
+MAINTAINER James "james"
 
 # Download and install Mediawiki
 ENV MEDIAWIKI_MAJOR 1.24
