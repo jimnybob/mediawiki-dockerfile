@@ -1,4 +1,4 @@
-FROM jawc/nginx-php
+FROM jimnybob/nginx-php
 MAINTAINER James "james"
 
 # Download and install Mediawiki
